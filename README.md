@@ -1,10 +1,12 @@
 ## About The Project
-
+Diagnozify is an initiative to make it easier for the needy to get hands on quality healthcare.
+By the means of our app we aim to provide a platform where various syndromes can be detected just by a facial scan. 
+This in turn will help millions of people affected by these diseases to directly meet the correct doctor for their particular disease. 
+Diagnozify uses artificial intelligence to interpret the facial information and provide accurate results. 
 
 
 
 ## Tech stacks used 
-
 
 
 
@@ -34,7 +36,8 @@ After saving, The image URL is then parsed into request body of the backend API 
 
 
 ## Future Scope
-
+further improve on my ml model
+work on the dataset
 
 ## Instructions For Contribution
 
