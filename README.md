@@ -36,8 +36,12 @@ After saving, The image URL is then parsed into request body of the backend API 
 
 
 ## Future Scope
-further improve on my ml model
-work on the dataset
+ 1. Further improve on my ML model.
+ 2. Work on the dataset to include more diverse population patients.
+ 3. Include an exercises and therapy suggestor.
+ 4. Add an appointment scheduler.
+ 5. Include other syndromes detection too.
+
 
 ## Instructions For Contribution
 
@@ -51,7 +55,14 @@ work on the dataset
 
 ## References 
 
+ 1. https://www.mayoclinic.org/
+ 2. https://api.flutter.dev/flutter/material/Scaffold-class.html
+ 3. https://api.flutter.dev/index.html
+ 4. https://www.google.com/amp/s/www.geeksforgeeks.org/introduction-to-tensorflow/amp/
+ 5. https://www.tensorflow.org/
+ 6. https://www.fullstackpython.com/flask.html
+ 7. https://www.w3schools.com/python/
 
-
-
+## Video Demo 
+  https://youtu.be/oM5OLq3ef9s
  
