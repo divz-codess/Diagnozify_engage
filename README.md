@@ -3,7 +3,11 @@ Diagnozify is an initiative to make it easier for the needy to get hands on qual
 By the means of our app we aim to provide a platform where various syndromes can be detected just by a facial scan. 
 This in turn will help millions of people affected by these diseases to directly meet the correct doctor for their particular disease. 
 Diagnozify uses artificial intelligence to interpret the facial information and provide accurate results. 
-
+Diagnozify detects 4 genetic syndromes namely:
+ 1. Down's Syndrome
+ 2. DiGeorge Syndrome
+ 3. William Buren Syndrome 
+ 4. Noonan Syndrome 
 
 
 ## Tech stacks used 
