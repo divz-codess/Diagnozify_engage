@@ -33,8 +33,7 @@ The Diagnozify App has three major components to full full all its features
 
 The major goal the the app is to predict different types of face syndromes once user captures the image or uploads photo from gallery, The image file is then encoded in base64 format and uploaded to static storage drive of firebase storage and image path is stored on user's collections. 
 
-<img src="https://github.com/ishaandwivedi1234/Diagnozify/blob/main/screenshots/sys_arc.png" height="200px" width="500px"/>
-<br>
+
 
 After saving, The image URL is then parsed into request body of the backend API which loads the image into CNN model trained on dataset of various face syndromes images, The model predicts the chances of various syndromes and responds to the client about its predictions, If the predicted values are high enough then the result is displayed on the user's app confirming about his/her syndromic conditions. 
 
