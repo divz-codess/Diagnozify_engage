@@ -26,7 +26,7 @@ Note - Please enable install app from unknown sources setting on your device to 
 
 ## System Architecture 
 
-<img width="800" alt="sys_arc" src="https://user-images.githubusercontent.com/88512639/217721243-89f04afa-221d-46b9-9ca4-9034799b78c4.png" height=350 width=400>
+<img width="800" alt="sys_arc" src="https://github.com/divz-codess/Diagnozify_engage/assets/88512639/50e53222-094e-4b8b-b96d-bd63ed0a7975" height=380 width=400>
 
 The Diagnozify App has three major components to full full all its features 
 1. An android application 
